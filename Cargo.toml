@@ -1,7 +1,11 @@
 [package]
 name = "atomweave"
 version = "0.1.0"
-description = "Space-partitioning library"
+description = """
+AtomWeave is a space-partitioning library.
+
+This crate is a placeholder while original C implementation is migrated to Rust.
+"""
 repository = "https://github.com/patha454/AtomWeaveRs"
 readme = "README.md"
 license = "BSL-1"
