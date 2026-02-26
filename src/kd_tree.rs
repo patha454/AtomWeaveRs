@@ -8,6 +8,7 @@ enum Node<Coord, Value> {
 }
 
 pub struct KdTree<Coord, Value> {
+    /// Implicit binary tree with nodes in level-order.
     nodes: Vec<Option<Node<Coord, Value>>>
 }
 
