@@ -1,6 +1,10 @@
 [package]
 name = "atomweave"
 version = "0.1.0"
+description = "Space-partitioning library"
+repository = "https://github.com/patha454/AtomWeaveRs"
+readme = "README.md"
+license = "BSL-1"
 edition = "2024"
 
 [dependencies]
