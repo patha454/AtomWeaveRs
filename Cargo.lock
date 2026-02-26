@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "AtomWeaveRs"
+name = "atomweave"
 version = "0.1.0"
