@@ -1,5 +1,4 @@
-pub mod kd_tree;
-mod spatial_index;
+pub mod spatial_index;
 
 pub fn add(left: u64, right: u64) -> u64 {
     left + right
