@@ -1,6 +1,6 @@
 [package]
 name = "atomweave"
-version = "0.1.0"
+version = "0.2.0"
 description = """
 AtomWeave is a space-partitioning library.
 
